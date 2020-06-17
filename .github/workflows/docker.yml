@@ -13,8 +13,8 @@ jobs:
         with:
           dockerfile: Dockerfile
           path: .
-          username: jamct
+          username: th-open
           password: ${{ secrets.GITHUB_TOKEN }}
-          repository: jamct/demo-docs/mkdocs
+          repository: th-open/demo-docs/mkdocs
           registry: docker.pkg.github.com
           tags: latest
