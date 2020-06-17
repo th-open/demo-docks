@@ -15,6 +15,6 @@ jobs:
           path: .
           username: th-open
           password: ${{ secrets.GITHUB_TOKEN }}
-          repository: th-open/demo-docs/mkdocs
+          repository: th-open/demo-docks/mkdocs
           registry: docker.pkg.github.com
           tags: latest
