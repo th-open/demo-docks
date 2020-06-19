@@ -3,5 +3,6 @@ RUN apk add build-base
 COPY ./mkdocs/ /mkdocs/
 WORKDIR /mkdocs/
 RUN pip install --upgrade pip && pip install mkdocs
+RUN pip install mkdocs-bootswatch
 EXPOSE 8080
 CMD ["mkdocs", "serve"]
