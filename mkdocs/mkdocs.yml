@@ -8,3 +8,4 @@ markdown_extensions:
     
 nav:
     - Willkommen: index.md
+    - Test: test.md
