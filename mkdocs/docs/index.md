@@ -1,4 +1,4 @@
-# Test
+# :fa-beer: Test
 
 Das ist Markdown
 
