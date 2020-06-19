@@ -5,6 +5,6 @@ site_author: "Ihr Name"
 markdown_extensions:
     - attr_list
     - admonition
-    - fontawesome_markdown
+    
 nav:
     - Willkommen: index.md
