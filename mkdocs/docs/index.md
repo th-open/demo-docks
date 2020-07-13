@@ -14,3 +14,14 @@ Extensions:
 [Dockerfile Doku](https://www.ab-heute-programmieren.de/docker-teil-4-das-dockerfile/)
 
 [Aufbau Crontab Datei](https://linuxize.com/post/scheduling-cron-jobs-with-crontab/)
+
+## Nützliche Docker Befehle
+
+Installierte Docker Version
+```docker version```
+
+Anzeige laufende Container
+```docker ps```
+
+Anzeige alle Container
+```docker ps -a```
