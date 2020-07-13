@@ -17,11 +17,14 @@ Extensions:
 
 ## Nützliche Docker Befehle
 
-Installierte Docker Version
-```docker version```
+Installierte Docker Version  
+`docker version`
 
-Anzeige laufende Container
-```docker ps```
+Anzeige laufende Container  
+`docker ps`  
 
-Anzeige alle Container
-```docker ps -a```
+Anzeige alle Container  
+`docker ps -a`  
+
+Anzeize aller Images auf dem Rechner  
+`docker image ls`
