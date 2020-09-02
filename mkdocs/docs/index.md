@@ -26,5 +26,7 @@ Anzeige laufende Container
 Anzeige alle Container  
 `docker ps -a`  
 
-Anzeize aller Images auf dem Rechner  
+Anzeige aller Images auf dem Rechner  
 `docker image ls`
+
+Test
